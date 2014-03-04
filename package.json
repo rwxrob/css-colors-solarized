@@ -1,6 +1,6 @@
 {
   "name": "css-colors-solarized",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "CSS and Stylus style sheets for Ethan Schoonover's solarized colors.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/robmuh/css-colors-solarized/issues"
   },
-  "homepage": "https://github.com/robmuh/css-colors-solarized",
+  "homepage": "https://robmuh.github.io/css-colors-solarized",
   "devDependencies": {
     "gulp": "~3.5.2",
     "gulp-stylus": "0.0.13",
