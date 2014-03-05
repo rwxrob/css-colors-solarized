@@ -1,6 +1,6 @@
 {
   "name": "css-colors-solarized",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "description": "CSS and Stylus style sheets for Ethan Schoonover's solarized colors.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
